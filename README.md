@@ -1,4 +1,4 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/68211df3f35e44fbb3fe01da5151a8b9)](https://www.codacy.com/app/sdcplatform/rm-collection-exercise-service?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ONSdigital/rm-collection-exercise-service&amp;utm_campaign=Badge_Grade) [![Docker Pulls](https://img.shields.io/docker/pulls/sdcplatform/collectionexercisesvc.svg)]()
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c2defd46863545e8a0f2813f7efce07d)](https://www.codacy.com/app/sdcplatform/rm-collectioninstrumentsvc-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ONSdigital/rm-collectioninstrumentsvc-api&amp;utm_campaign=Badge_Grade)
 
 # Collection Exercise Service
 The Collection Exercise service will be responsible for the orchestration of the processes necessary to begin the data collection for a particular field period for a particular survey.

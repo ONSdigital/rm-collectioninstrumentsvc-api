@@ -1,6 +1,6 @@
 package uk.gov.ons.ctp.response.collection.instrument.representation;
 
-import java.util.UUID;
+import java.util.List;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
@@ -13,9 +13,9 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor(access = AccessLevel.PUBLIC)
-public class CollectionInstrumentDTO {
-  private UUID id;
-  private String surveyId;
-  private ClassifiersDTO classifiers;
-
+public class ClassifiersDTO {
+    private List<String> COLLECTION_EXERCISE;
+    private List<String> RU_REF;
+    private String eq_id;
+    private String form_type;
 }
